@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm **Kenta NIIDA** - I'm a fullstack developer.
 
