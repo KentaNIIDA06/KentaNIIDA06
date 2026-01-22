@@ -2,7 +2,7 @@
 
 I'm **Kenta NIIDA** - I'm a fullstack developer.
 
-[![My Skills](https://skillicons.dev/icons?i=vite,react,nextjs,tailwind,nodejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,spring,vite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,java,md)](https://skillicons.dev)
 
